@@ -1,4 +1,4 @@
-![Laserfiche](/profile/LaserficheLogo.svg)
+[![Laserfiche](/profile/LaserficheLogo.svg)](https://www.laserfiche.com/)
 
 # Welcome to the Laserfiche Developer Community
 
