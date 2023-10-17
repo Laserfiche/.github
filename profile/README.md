@@ -1,5 +1,5 @@
-![Laserfiche](./Laserfiche_LogotypeOnly_RGB.svg)
----
+![Laserfiche](./LaserficheLogo.svg)
+
 # Welcome to the Laserfiche Developer Community
 
 - Start here: [Laserfiche Developer Center](https://developer.laserfiche.com/)
