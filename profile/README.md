@@ -1,4 +1,4 @@
-![Laserfiche](Laserfiche_LogotypeOnly_RGB.svg)
+![Laserfiche](./Laserfiche_LogotypeOnly_RGB.svg)
 ---
 # Welcome to the Laserfiche Developer Community
 
